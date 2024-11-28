@@ -1,0 +1,76 @@
+/* Importando fontes modernas do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    font-family: 'Poppins', Arial, sans-serif; /* Fonte moderna */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e9ecef; /* Fundo claro e moderno */
+    color: #212529; /* Cor de texto padrão */
+}
+
+.container {
+    text-align: center;
+    background: #ffffff; /* Fundo branco */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Sombra mais suave */
+    max-width: 400px;
+    width: 100%;
+}
+
+h1 {
+    color: #495057; /* Texto cinza escuro */
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+    font-weight: 600; /* Peso forte */
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff; /* Azul primário */
+    color: #ffffff;
+    font-weight: 600; /* Texto mais marcante */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Transições suaves */
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2); /* Leve sombra para destaque */
+}
+
+button:hover {
+    background-color: #0056b3; /* Azul escuro no hover */
+    transform: translateY(-2px); /* Eleva o botão ao passar o mouse */
+}
+
+#resultado {
+    margin-top: 25px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background: #f8f9fa; /* Fundo leve para itens */
+    margin: 8px 0;
+    padding: 12px;
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra mais delicada */
+    font-size: 16px;
+    font-weight: 400; /* Peso padrão */
+    color: #212529; /* Texto escuro */
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+li:hover {
+    transform: translateY(-3px); /* Elevação ao passar o mouse */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15); /* Sombra mais pronunciada */
+}
