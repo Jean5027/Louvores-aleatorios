@@ -1,20 +1,10 @@
 // Array de louvores
 const louvores = [
-    "126", "CASTELO FORTE", "abba pai", "Digno de glória", "A Ele a Glória",
-    "ABBA PAI", "Aclame ao Senhor", "acredito", "aguas Purificadoras",
-    "alvo mais que a neve", "Ao único", "Aquieta minha", "Arde outra vez", 
-    "Até que Ele venha", "Bondade de Deus", "CASTELO FORTE", "Colossenses 1",
-    "consagração", "Corpo e Fam¡lia", "Deus da minha vida", "Diante da cruz",
-    "Digno de glória", "Ele Exaltado", "Ele é", "grandioso és Tu", "Há um lugar",
-    "Há um Rio", "Isaias 53", "Isaias 9", "Jesus é o Caminho", "Jesus filho de Deus",
-    "Louvemos ao Senhor", "louvor ao senhor", "Maranata", "me ajude a melhorar",
-    "me derramar", "Meu Universo", "nada além do sangue", "Oferta agradavel",
-    "O quão lindo esse nome é", "Ousado amor", "Pela Manhã Te Buscarei", "Perdão e graça",
-    "Poderoso Deus", "porque Ele vive", "Preciso de Ti", "Primeira essência", 
-    "rendido estou", "sonda-me", "Sonhos", "Te agradeço", "te amo", "Te Louvarei", 
-    "teu povo", "Teu reino", "Tocou-me", "Todos Que Tem Sede", "Tu es soberano", 
-    "tu és", "tua graça me basta", "Vem Esta é a Hora", "Vim Para Adorar-te", 
-    "Vou deixar na cruz", "Yeshua HELOISA"
+    "tu és soberano", "quebrantado", "emaús", "tudo que eu vivi", "ajuntamento", "em espírito, em verdade", "ele é", "faz chover",
+     "nenhuma condenação há", "meu respirar", "preciso de ti", "teu reino", "o nome", "aleluia", "redenção", "eu me rendo",
+      "vim para adorar-te", "perdão e graça", "entrega", "espírito, enche a minha vida", "mais que um amigo",
+     "digno de glória", "primeira essência", "sonda-me", "reina sobre mim", "há um lugar", "rendido estou",
+      "oh quão lindo esse nome é", "isaías 53", "diante da cruz"
 ]
 
 // Função para sortear índices aleatórios
